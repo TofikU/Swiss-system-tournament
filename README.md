@@ -24,10 +24,10 @@ Download and install - [Vagrant](https://www.vagrantup.com/downloads.html) and [
 The virtual machine configuration is in this file: [FSND-Virtual-Machine.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/58488015_fsnd-virtual-machine/fsnd-virtual-machine.zip)
 Download this file to your computer and unzip it. This will give you a directory called FSND-Virtual-Machine.
 
-**Step 4: Download files from this Repo**
+**Step 3: Download files from this Repo**
 Download files from this Repo and paste them into **tournament** folder
 
-**Step 3: Starting Vagrant**
+**Step 4: Starting Vagrant**
 From your terminal, inside the vagrant subdirectory, run the command *vagrant up*.
 At this point, you can run *vagrant ssh* to log in to your newly installed Linux VM
 Then, in your terminal run command *cd /vagrant/tournament*
