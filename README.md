@@ -15,8 +15,7 @@ Developed a Python module that uses the PostgreSQL database to keep track of pla
 - tournament_test.py - this is a client program which will use functions written in the tournament.py module. We've written this client program to test your implementation of functions in tournament.py
 
 ## How to Run
-*Prerequisites
-- Git Bash should be installed on your machine*
+*Prerequisites* - Git Bash should be installed on your machine
 
 **Step 1: Installing the VM**
 Download and install - [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads) to manage the VM
