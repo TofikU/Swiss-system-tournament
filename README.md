@@ -15,11 +15,12 @@ Developed a Python module that uses the PostgreSQL database to keep track of pla
 - tournament_test.py - this is a client program which will use functions written in the tournament.py module. We've written this client program to test your implementation of functions in tournament.py
 
 ## How to Run
-*Prerequisites*
-- Git Bash should be installed on your machine
+*Prerequisites
+- Git Bash should be installed on your machine*
 
 **Step 1: Installing the VM**
 Download and install - [Vagrant](https://www.vagrantup.com/downloads.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads) to manage the VM
+
 **Step 2: Download the VM configuration**
 The virtual machine configuration is in this file: [FSND-Virtual-Machine.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/58488015_fsnd-virtual-machine/fsnd-virtual-machine.zip)
 Download this file to your computer and unzip it. This will give you a directory called FSND-Virtual-Machine.
