@@ -38,4 +38,4 @@ Then, in your terminal run command *cd /vagrant/tournament*
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2017 Tofik Umukhanov
+Copyright (c) 2017
